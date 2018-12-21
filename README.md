@@ -1,2 +1,0 @@
-# MVVM-EX
-MVVM-Demo
